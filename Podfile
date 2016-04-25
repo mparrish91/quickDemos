@@ -1,0 +1,2 @@
+pod "RACollectionViewReorderableTripletLayout"
+pod "FacebookImagePicker"
